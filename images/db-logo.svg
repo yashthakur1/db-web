@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="48px" viewBox="0 0 58 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.1760984,0.00975691872 L0.0875048959,47.6294838 L14.1760984,0.00975691872 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-6" transform="translate(-47.000000, -50.000000)">
+            <g id="Group-2" transform="translate(47.000000, 50.000000)">
+                <g id="Group" transform="translate(0.814621, 0.219321)">
+                    <path d="M1.53481897,45.0920246 L13.2190449,1.39605805 C22.8499269,3.98013717 29.9412775,12.7804624 29.9412775,23.2392364 C29.9412775,35.7274827 19.8308314,45.8512066 7.35896416,45.8512066 C5.34514051,45.8512066 3.39288462,45.5872575 1.53481897,45.0920246 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M44.744038,1.40875455 C44.9940927,1.39273663 45.2462897,1.38460481 45.5003834,1.38460481 C51.9451761,1.38460481 57.1697128,6.61600283 57.1697128,13.0692593 C57.1697128,17.7208743 54.4551652,21.7376401 50.5257515,23.6179057 C54.4551652,25.4981713 57.1697128,29.5149371 57.1697128,34.1665522 C57.1697128,40.6198086 51.9451761,45.8512066 45.5003834,45.8512066 C45.2462897,45.8512066 44.9940927,45.8430748 44.744038,45.8270569 L44.744038,1.40875455 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <rect id="Rectangle" fill="#FFFFFF" x="36.316189" y="1.38460481" width="9.18419443" height="44.4666018"></rect>
+                    <g id="Line" stroke-linecap="square" stroke-width="1.29600002">
+                        <use stroke="#FFFFFF" xlink:href="#path-1"></use>
+                        <use stroke-opacity="0.2" stroke="#000000" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
